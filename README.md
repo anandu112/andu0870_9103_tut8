@@ -14,7 +14,7 @@
 ![Visual Effect 2](readmeImages/visual_effect2.png)
 ***
 - *Link and Instruction*
-   - *After clicking the link, please click the icon at the top right to view the code.*
+   - *After clicking the link, please click the icon within the red box shown in the image to view the code.*
 ![instruction](readmeImages/instruction.png)
    - *[Code Link](https://openprocessing.org/sketch/1709770)*
 ***
