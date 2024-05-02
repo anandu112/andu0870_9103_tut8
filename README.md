@@ -1,4 +1,4 @@
-# Week 8 Quiz
+# Quiz 8
 ## Part 1: Imaging Technique Inspiration
 ### My Chosen Example:
 ![Firework Image 1](readmeImages/fireworks1.jpg)
