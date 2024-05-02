@@ -9,11 +9,11 @@
 ***
 ## Part 2: Coding Technique Exploration
 ### The Coding Technique:
-- *Visual Effect*
+- Visual Effect
 ![Visual Effect 1](readmeImages/visual_effect1.png)
 ![Visual Effect 2](readmeImages/visual_effect2.png)
 ***
-- *Link and Instruction*
+- Link and Instruction
    - After clicking the link, please click the icon at the top right to view the code.
 ![instruction](readmeImages/instruction.png)
    - [Code Link](https://openprocessing.org/sketch/1709770)
