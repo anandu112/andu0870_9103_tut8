@@ -9,14 +9,14 @@
 ***
 ## Part 2: Coding Technique Exploration
 ### The Coding Technique:
-- Visual Effect
+- *Visual Effect*
 ![Visual Effect 1](readmeImages/visual_effect1.png)
 ![Visual Effect 2](readmeImages/visual_effect2.png)
 ***
-- Link and Instruction
-   - After clicking the link, please click the icon at the top right to view the code.
+- *Link and Instruction*
+   - *After clicking the link, please click the icon at the top right to view the code.*
 ![instruction](readmeImages/instruction.png)
-   - [Code Link](https://openprocessing.org/sketch/1709770)
+   - *[Code Link](https://openprocessing.org/sketch/1709770)*
 ***
 ### How:
 #### This code creates complex and random visual effects using functions like random(), showing a dynamic scene of numerous fireworks bursting simultaneously, which presents a dense beauty and effectively simulates the dazzling effects and unpredictable nature of fireworks. After bursting, the fireworks do not disappear but remain on the screen, turning moments into eternity. Additionally, each time the screen refreshes, the colors of the fireworks change, creating a vibrant and continually evolving visual experience that ensures each viewing is unique.
